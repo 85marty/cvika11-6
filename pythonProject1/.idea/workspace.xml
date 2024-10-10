@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="281804ef-352b-407b-884b-20869c9e8729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_first_web/members/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_first_web/members/templates/add_member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_first_web/members/templates/all_members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_first_web/members/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_first_web/members/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/core/templetes/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/core/templetes/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2lygM1Ft7xZBi8CkxwwMJiYeYLC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="281804ef-352b-407b-884b-20869c9e8729" name="Changes" comment="" />
+      <created>1726157678608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726157678608</updated>
+    </task>
+    <servers />
+  </component>
+</project>
